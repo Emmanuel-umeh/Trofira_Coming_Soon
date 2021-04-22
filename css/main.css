@@ -961,6 +961,24 @@ header .social-links ul li a:focus {
 		padding: 0 .3rem;
 	}
 }
+@media only screen and (max-width:320px) {
+	header .logo {
+		left: 30px;
+		/* margin-top: 30px; */
+	}
+	header .logo a {
+		width: 10px;
+		height: 52px;
+		background-size: 60px 52px;
+			/* margin-top: 50px; */
+	}
+	header .social-links ul {
+		font-size: 2rem;
+	}
+	header .social-links li {
+		padding: 0 .3rem;
+	}
+}
 
 /* ===================================================================
  * 09. home - (_layout.scss)
