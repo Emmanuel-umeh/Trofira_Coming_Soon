@@ -885,9 +885,11 @@ header .social-links ul li a:focus {
 		margin-top: 42px;
 	}
 	header .logo a {
-		width: 90px;
-		height: 78px;
-		background-size: 90px 78px;
+	
+		width: 97px;
+		height: 84px;
+	
+		background-size: 60px 50px;
 	}
 	header .social-links {
 		right: 18px;
