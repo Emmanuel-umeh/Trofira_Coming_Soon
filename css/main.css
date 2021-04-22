@@ -913,7 +913,7 @@ header .social-links ul li a:focus {
 @media only screen and (max-width:600px) {
 	header .logo {
 		left: 41px;
-		margin-top: 30px;
+		margin-top: -20px;
 	}
 	header .logo a {
 		width: 70px;
