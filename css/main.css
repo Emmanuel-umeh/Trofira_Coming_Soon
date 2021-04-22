@@ -1848,30 +1848,6 @@ footer .back-to-top a i {
     text-decoration: none;
 }
 
-.telegram-button:hover{
-    background-color: #007dbb;
-}
-
-.telegram-button:active{
-    background-color: #026698;
-}
-
-.telegram-button i{
-    display: inline-block;
-    height: 12px;
-    width: 14px;
-    vertical-align: middle;
-    margin-right: 2px;
-    
-    background: url('https://telegram.org/img/oauth/tg_button_small.png') no-repeat;
-    background-size: contain;
-}
-
-.telegram-button span{
-    display: inline-block;
-    vertical-align: top;
-}
-
 /* ------------------------------------------------------------------- 
  * responsive:
  * footer  
