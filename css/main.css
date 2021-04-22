@@ -881,12 +881,13 @@ header .social-links ul li a:focus {
 @media only screen and (max-width:1024px) {
 	header .logo {
 		left: 24px;
-		margin-top: 42px;
+		margin-top: -50px;
 	}
 	header .logo a {
 		width: 90px;
 		height: 78px;
 		background-size: 90px 78px;
+		
 	}
 	header .social-links {
 		right: 18px;
