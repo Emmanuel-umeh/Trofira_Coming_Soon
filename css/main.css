@@ -47,6 +47,10 @@ html {
 @media only screen and (max-width:768px) {
 	html {
 		font-size: 10px;
+		
+	}
+	#join_us {
+		width: ;
 	}
 }
 @media only screen and (max-width:400px) {
