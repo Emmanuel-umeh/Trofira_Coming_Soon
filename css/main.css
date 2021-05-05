@@ -57,6 +57,9 @@ html {
 	html {
 		font-size: 9.375px;
 	}
+	#join_us {
+		width: 60%;
+	}
 }
 html, body {
 	height: 100%;
